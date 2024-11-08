@@ -279,6 +279,7 @@ make run-migrations
  ![image](https://github.com/user-attachments/assets/1bfd0782-9465-4908-adb9-c8130355b012)
 
 poetry add flasgger
+
 pip install flasgger
 ![image](https://github.com/user-attachments/assets/08e92cd1-29e8-4b13-9f93-8340423e461a)
 
@@ -286,11 +287,13 @@ pip install flasgger
 
 
  poetry add prometheus_flask_exporter
+ 
  pip install prometheus_flask_exporter
 ![image](https://github.com/user-attachments/assets/5fb8685f-9fe4-4c4c-b01e-559029efaaee)
 
 
 poetry add voluptuous
+
 pip install voluptuous
 
 ![image](https://github.com/user-attachments/assets/d7cba79e-0cdf-44a2-9221-fdac3361a2bf)
@@ -298,17 +301,20 @@ pip install voluptuous
 
 
 poetry add psycopg2
+
 pip install psycopg2
 ![image](https://github.com/user-attachments/assets/28365ba0-8c80-473e-86af-41bda1358401)
 
 
 
 poetry add redis
+
 pip install redis
 ![image](https://github.com/user-attachments/assets/a97e2e10-24b4-484a-8f5f-f233445b07a2)
 
 
  poetry add flask-caching
+ 
  pip install flask-caching
 
 ![image](https://github.com/user-attachments/assets/f2603407-b14f-4e1f-a073-54ea6908d8cd)
@@ -318,6 +324,7 @@ pip install redis
 
 
 poetry add peewee
+
 pip install peewee
 
 
